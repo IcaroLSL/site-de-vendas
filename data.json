@@ -1,0 +1,702 @@
+[
+  {
+      "id": 1,
+      "nome": "Camiseta Básica Branca",
+      "descricao": "Camiseta 100% algodão branca.",
+      "preco": 29.99,
+      "quantidadeEstoque": 100
+  },
+  {
+      "id": 2,
+      "nome": "Camiseta Básica Preta",
+      "descricao": "Camiseta 100% algodão preta.",
+      "preco": 29.99,
+      "quantidadeEstoque": 120
+  },
+  {
+      "id": 3,
+      "nome": "Notebook Gamer",
+      "descricao": "Notebook com processador i7 e 16GB de RAM.",
+      "preco": 4999.99,
+      "quantidadeEstoque": 20
+  },
+  {
+      "id": 4,
+      "nome": "Mouse óptico USB",
+      "descricao": "Mouse com sensor óptico e conexão USB.",
+      "preco": 39.99,
+      "quantidadeEstoque": 200
+  },
+  {
+      "id": 5,
+      "nome": "Teclado Mecânico RGB",
+      "descricao": "Teclado com iluminação RGB e switches mecânicos.",
+      "preco": 199.99,
+      "quantidadeEstoque": 50
+  },
+  {
+      "id": 6,
+      "nome": "Smartphone Android 64GB",
+      "descricao": "Smartphone com tela de 6.1 polegadas e 64GB de armazenamento.",
+      "preco": 1499.99,
+      "quantidadeEstoque": 75
+  },
+  {
+      "id": 7,
+      "nome": "Fone de Ouvido Bluetooth",
+      "descricao": "Fone de ouvido sem fio com conectividade Bluetooth.",
+      "preco": 79.99,
+      "quantidadeEstoque": 150
+  },
+  {
+      "id": 8,
+      "nome": "Relógio de Pulso Digital",
+      "descricao": "Relógio resistente à água com mostrador digital.",
+      "preco": 99.99,
+      "quantidadeEstoque": 90
+  },
+  {
+      "id": 9,
+      "nome": "Monitor Full HD 24\"",
+      "descricao": "Monitor com resolução Full HD de 24 polegadas.",
+      "preco": 799.99,
+      "quantidadeEstoque": 30
+  },
+  {
+      "id": 10,
+      "nome": "Cadeira Gamer",
+      "descricao": "Cadeira ergonômica com ajuste de altura e inclinação.",
+      "preco": 999.99,
+      "quantidadeEstoque": 25
+  },
+  {
+      "id": 11,
+      "nome": "Livro de Ficção Científica",
+      "descricao": "Livro com histórias de ficção científica e aventura.",
+      "preco": 39.99,
+      "quantidadeEstoque": 200
+  },
+  {
+      "id": 12,
+      "nome": "Tênis Esportivo",
+      "descricao": "Tênis leve e confortável para atividades esportivas.",
+      "preco": 249.99,
+      "quantidadeEstoque": 60
+  },
+  {
+      "id": 13,
+      "nome": "óculos de Sol",
+      "descricao": "óculos com proteção UV e design moderno.",
+      "preco": 119.99,
+      "quantidadeEstoque": 80
+  },
+  {
+      "id": 14,
+      "nome": "Caixa de Som Bluetooth",
+      "descricao": "Caixa de som portátil com conexão Bluetooth.",
+      "preco": 199.99,
+      "quantidadeEstoque": 100
+  },
+  {
+      "id": 15,
+      "nome": "Tablet 10\" Wi-Fi",
+      "descricao": "Tablet com tela de 10 polegadas e conexão Wi-Fi.",
+      "preco": 899.99,
+      "quantidadeEstoque": 40
+  },
+  {
+      "id": 16,
+      "nome": "Cafeteira Expresso",
+      "descricao": "Cafeteira para preparo de café expresso e cappuccino.",
+      "preco": 499.99,
+      "quantidadeEstoque": 35
+  },
+  {
+      "id": 17,
+      "nome": "Batedeira Planetária",
+      "descricao": "Batedeira com tigela inox e várias velocidades.",
+      "preco": 299.99,
+      "quantidadeEstoque": 70
+  },
+  {
+      "id": 18,
+      "nome": "Air Fryer",
+      "descricao": "Fritadeira sem óleo com capacidade para 3,5L.",
+      "preco": 349.99,
+      "quantidadeEstoque": 50
+  },
+  {
+      "id": 19,
+      "nome": "Smart TV 50\" 4K",
+      "descricao": "Smart TV com resolução 4K e sistema operacional Android.",
+      "preco": 2499.99,
+      "quantidadeEstoque": 20
+  },
+  {
+      "id": 20,
+      "nome": "Bicicleta Mountain Bike",
+      "descricao": "Bicicleta com suspensão e 21 marchas para trilhas.",
+      "preco": 999.99,
+      "quantidadeEstoque": 15
+  },
+  {
+      "id": 21,
+      "nome": "Ferro de Passar Roupa",
+      "descricao": "Ferro a vapor com ajuste de temperatura.",
+      "preco": 77.99,
+      "quantidadeEstoque": 63
+  },
+  {
+      "id": 22,
+      "nome": "Tênis Casual",
+      "descricao": "Tênis casual com solado confortável.",
+      "preco": 155.15,
+      "quantidadeEstoque": 62
+  },
+  {
+      "id": 23,
+      "nome": "Ferro de Passar Roupa",
+      "descricao": "Ferro a vapor com ajuste de temperatura.",
+      "preco": 88.12,
+      "quantidadeEstoque": 49
+  },
+  {
+      "id": 24,
+      "nome": "Roteador Wi-Fi",
+      "descricao": "Roteador com conexão de 2.4 e 5 GHz.",
+      "preco": 135.42,
+      "quantidadeEstoque": 64
+  },
+  {
+      "id": 25,
+      "nome": "Mochila Escolar",
+      "descricao": "Mochila com compartimento para notebook.",
+      "preco": 74.19,
+      "quantidadeEstoque": 133
+  },
+  {
+      "id": 26,
+      "nome": "Roteador Wi-Fi",
+      "descricao": "Roteador com conexão de 2.4 e 5 GHz.",
+      "preco": 131.38,
+      "quantidadeEstoque": 66
+  },
+  {
+      "id": 27,
+      "nome": "Ferro de Passar Roupa",
+      "descricao": "Ferro a vapor com ajuste de temperatura.",
+      "preco": 68.88,
+      "quantidadeEstoque": 86
+  },
+  {
+      "id": 28,
+      "nome": "Roteador Wi-Fi",
+      "descricao": "Roteador com conexão de 2.4 e 5 GHz.",
+      "preco": 143.14,
+      "quantidadeEstoque": 136
+  },
+  {
+      "id": 29,
+      "nome": "Mochila Escolar",
+      "descricao": "Mochila com compartimento para notebook.",
+      "preco": 75.99,
+      "quantidadeEstoque": 185
+  },
+  {
+      "id": 30,
+      "nome": "Aspirador de Pó",
+      "descricao": "Aspirador de pó portátil e potente.",
+      "preco": 196.57,
+      "quantidadeEstoque": 55
+  },
+  {
+      "id": 31,
+      "nome": "Tênis Casual",
+      "descricao": "Tênis casual com solado confortável.",
+      "preco": 146.61,
+      "quantidadeEstoque": 34
+  },
+  {
+      "id": 32,
+      "descricao": "Tênis casual com solado confortável.",
+      "nome": "Tênis Casual",
+      "preco": 135.62,
+      "quantidadeEstoque": 47
+  },
+  {
+      "id": 33,
+      "nome": "Aspirador de Pó",
+      "descricao": "Aspirador de pó portátil e potente.",
+      "preco": 259.99,
+      "quantidadeEstoque": 42
+  },
+  {
+      "id": 34,
+      "nome": "Tênis Casual",
+      "descricao": "Tênis casual com solado confortável.",
+      "preco": 168.67,
+      "quantidadeEstoque": 34
+  },
+  {
+      "id": 35,
+      "nome": "Aspirador de Pó",
+      "descricao": "Aspirador de pó portátil e potente.",
+      "preco": 241.36,
+      "quantidadeEstoque": 51
+  },
+  {
+      "id": 36,
+      "nome": "Mochila Escolar",
+      "descricao": "Mochila com compartimento para notebook.",
+      "preco": 102.99,
+      "quantidadeEstoque": 102
+  },
+  {
+      "id": 37,
+      "nome": "Ferro de Passar Roupa",
+      "descricao": "Ferro a vapor com ajuste de temperatura.",
+      "preco": 64.99,
+      "quantidadeEstoque": 51
+  },
+  {
+      "id": 38,
+      "nome": "Ferro de Passar Roupa",
+      "descricao": "Ferro a vapor com ajuste de temperatura.",
+      "preco": 70.26,
+      "quantidadeEstoque": 85
+  },
+  {
+      "id": 39,
+      "nome": "Roteador Wi-Fi",
+      "descricao": "Roteador com conexão de 2.4 e 5 GHz.",
+      "preco": 122.75,
+      "quantidadeEstoque": 78
+  },
+  {
+      "id": 40,
+      "nome": "Aspirador de Pó",
+      "descricao": "Aspirador de pó portátil e potente.",
+      "preco": 191.31,
+      "quantidadeEstoque": 27
+  },
+  {
+      "id": 41,
+      "nome": "Ferro de Passar Roupa",
+      "descricao": "Ferro a vapor com ajuste de temperatura.",
+      "preco": 91.72,
+      "quantidadeEstoque": 84
+  },
+  {
+      "id": 42,
+      "nome": "Ferro de Passar Roupa",
+      "descricao": "Ferro a vapor com ajuste de temperatura.",
+      "preco": 80.52,
+      "quantidadeEstoque": 75
+  },
+  {
+      "id": 43,
+      "nome": "Ferro de Passar Roupa",
+      "descricao": "Ferro a vapor com ajuste de temperatura.",
+      "preco": 71.83,
+      "quantidadeEstoque": 59
+  },
+  {
+      "id": 44,
+      "nome": "Mochila Escolar",
+      "descricao": "Mochila com compartimento para notebook.",
+      "preco": 88.86,
+      "quantidadeEstoque": 159
+  },
+  {
+      "id": 45,
+      "nome": "Roteador Wi-Fi",
+      "descricao": "Roteador com conexão de 2.4 e 5 GHz.",
+      "preco": 122.93,
+      "quantidadeEstoque": 95
+  },
+  {
+      "id": 46,
+      "nome": "Ferro de Passar Roupa",
+      "descricao": "Ferro a vapor com ajuste de temperatura.",
+      "preco": 90.47,
+      "quantidadeEstoque": 47
+  },
+  {
+      "id": 47,
+      "nome": "Roteador Wi-Fi",
+      "descricao": "Roteador com conexão de 2.4 e 5 GHz.",
+      "preco": 107.82,
+      "quantidadeEstoque": 87
+  },
+  {
+      "id": 48,
+      "nome": "Aspirador de Pó",
+      "descricao": "Aspirador de pó portátil e potente.",
+      "preco": 222.88,
+      "quantidadeEstoque": 48
+  },
+  {
+      "id": 49,
+      "nome": "Mochila Escolar",
+      "descricao": "Mochila com compartimento para notebook.",
+      "preco": 80.5,
+      "quantidadeEstoque": 228
+  },
+  {
+      "id": 50,
+      "nome": "Roteador Wi-Fi",
+      "descricao": "Roteador com conexão de 2.4 e 5 GHz.",
+      "preco": 123.53,
+      "quantidadeEstoque": 119
+  },
+  {
+      "id": 51,
+      "nome": "Tênis Casual",
+      "descricao": "Tênis casual com solado confortável.",
+      "preco": 131.25,
+      "quantidadeEstoque": 50
+  },
+  {
+      "id": 52,
+      "nome": "Mochila Escolar",
+      "descricao": "Mochila com compartimento para notebook.",
+      "preco": 82.52,
+      "quantidadeEstoque": 111
+  },
+  {
+      "id": 53,
+      "nome": "Roteador Wi-Fi",
+      "descricao": "Roteador com conexão de 2.4 e 5 GHz.",
+      "preco": 143.53,
+      "quantidadeEstoque": 103
+  },
+  {
+      "id": 54,
+      "nome": "Mochila Escolar",
+      "descricao": "Mochila com compartimento para notebook.",
+      "preco": 97.26,
+      "quantidadeEstoque": 261
+  },
+  {
+      "id": 55,
+      "nome": "Aspirador de Pó",
+      "descricao": "Aspirador de pó portátil e potente.",
+      "preco": 256.98,
+      "quantidadeEstoque": 50
+  },
+  {
+      "id": 56,
+      "nome": "Aspirador de Pó",
+      "descricao": "Aspirador de pó portátil e potente.",
+      "preco": 201.84,
+      "quantidadeEstoque": 34
+  },
+  {
+      "id": 57,
+      "nome": "Mochila Escolar",
+      "descricao": "Mochila com compartimento para notebook.",
+      "preco": 77.18,
+      "quantidadeEstoque": 192
+  },
+  {
+      "id": 58,
+      "nome": "Ferro de Passar Roupa",
+      "descricao": "Ferro a vapor com ajuste de temperatura.",
+      "preco": 95.38,
+      "quantidadeEstoque": 50
+  },
+  {
+      "id": 59,
+      "nome": "Tênis Casual",
+      "descricao": "Tênis casual com solado confortável.",
+      "preco": 133.44,
+      "quantidadeEstoque": 38
+  },
+  {
+      "id": 60,
+      "nome": "Aspirador de Pó",
+      "descricao": "Aspirador de pó portátil e potente.",
+      "preco": 250.55,
+      "quantidadeEstoque": 56
+  },
+  {
+      "id": 61,
+      "nome": "Tênis Casual",
+      "descricao": "Tênis casual com solado confortável.",
+      "preco": 149.67,
+      "quantidadeEstoque": 53
+  },
+  {
+      "id": 62,
+      "nome": "Mochila Escolar",
+      "descricao": "Mochila com compartimento para notebook.",
+      "preco": 93.65,
+      "quantidadeEstoque": 277
+  },
+  {
+      "id": 63,
+      "nome": "Ferro de Passar Roupa",
+      "descricao": "Ferro a vapor com ajuste de temperatura.",
+      "preco": 71.27,
+      "quantidadeEstoque": 84
+  },
+  {
+      "id": 64,
+      "nome": "Ferro de Passar Roupa",
+      "descricao": "Ferro a vapor com ajuste de temperatura.",
+      "preco": 92.2,
+      "quantidadeEstoque": 90
+  },
+  {
+      "id": 65,
+      "nome": "Aspirador de Pó",
+      "descricao": "Aspirador de pó portátil e potente.",
+      "preco": 254.84,
+      "quantidadeEstoque": 41
+  },
+  {
+      "id": 66,
+      "nome": "Ferro de Passar Roupa",
+      "descricao": "Ferro a vapor com ajuste de temperatura.",
+      "preco": 91.18,
+      "quantidadeEstoque": 83
+  },
+  {
+      "id": 67,
+      "nome": "Tênis Casual",
+      "descricao": "Tênis casual com solado confortável.",
+      "preco": 142.45,
+      "quantidadeEstoque": 35
+  },
+  {
+      "id": 68,
+      "nome": "Aspirador de Pó",
+      "descricao": "Aspirador de pó portátil e potente.",
+      "preco": 207.72,
+      "quantidadeEstoque": 48
+  },
+  {
+      "id": 69,
+      "nome": "Roteador Wi-Fi",
+      "descricao": "Roteador com conexão de 2.4 e 5 GHz.",
+      "preco": 112.69,
+      "quantidadeEstoque": 104
+  },
+  {
+      "id": 70,
+      "nome": "Roteador Wi-Fi",
+      "descricao": "Roteador com conexão de 2.4 e 5 GHz.",
+      "preco": 112.25,
+      "quantidadeEstoque": 107
+  },
+  {
+      "id": 71,
+      "nome": "Ferro de Passar Roupa",
+      "descricao": "Ferro a vapor com ajuste de temperatura.",
+      "preco": 88.31,
+      "quantidadeEstoque": 43
+  },
+  {
+      "id": 72,
+      "nome": "Tênis Casual",
+      "descricao": "Tênis casual com solado confortável.",
+      "preco": 127.48,
+      "quantidadeEstoque": 60
+  },
+  {
+      "id": 73,
+      "nome": "Roteador Wi-Fi",
+      "descricao": "Roteador com conexão de 2.4 e 5 GHz.",
+      "preco": 131.65,
+      "quantidadeEstoque": 115
+  },
+  {
+      "id": 74,
+      "nome": "Mochila Escolar",
+      "descricao": "Mochila com compartimento para notebook.",
+      "preco": 106.95,
+      "quantidadeEstoque": 186
+  },
+  {
+      "id": 75,
+      "nome": "Roteador Wi-Fi",
+      "descricao": "Roteador com conexão de 2.4 e 5 GHz.",
+      "preco": 125.71,
+      "quantidadeEstoque": 75
+  },
+  {
+      "id": 76,
+      "nome": "Aspirador de Pó",
+      "descricao": "Aspirador de pó portátil e potente.",
+      "preco": 199.24,
+      "quantidadeEstoque": 32
+  },
+  {
+      "id": 77,
+      "nome": "Mochila Escolar",
+      "descricao": "Mochila com compartimento para notebook.",
+      "preco": 92.83,
+      "quantidadeEstoque": 221
+  },
+  {
+      "id": 78,
+      "nome": "Roteador Wi-Fi",
+      "descricao": "Roteador com conexão de 2.4 e 5 GHz.",
+      "preco": 113.84,
+      "quantidadeEstoque": 136
+  },
+  {
+      "id": 79,
+      "nome": "Mochila Escolar",
+      "descricao": "Mochila com compartimento para notebook.",
+      "preco": 88.84,
+      "quantidadeEstoque": 250
+  },
+  {
+      "id": 80,
+      "nome": "Aspirador de Pó",
+      "descricao": "Aspirador de pó portátil e potente.",
+      "preco": 228.87,
+      "quantidadeEstoque": 53
+  },
+  {
+      "id": 81,
+      "nome": "Aspirador de Pó",
+      "descricao": "Aspirador de pó portátil e potente.",
+      "preco": 250.0,
+      "quantidadeEstoque": 46
+  },
+  {
+      "id": 82,
+      "nome": "Ferro de Passar Roupa",
+      "descricao": "Ferro a vapor com ajuste de temperatura.",
+      "preco": 88.34,
+      "quantidadeEstoque": 74
+  },
+  {
+      "id": 83,
+      "nome": "Ferro de Passar Roupa",
+      "descricao": "Ferro a vapor com ajuste de temperatura.",
+      "preco": 85.06,
+      "quantidadeEstoque": 89
+  },
+  {
+      "id": 84,
+      "nome": "Aspirador de Pó",
+      "descricao": "Aspirador de pó portátil e potente.",
+      "preco": 196.72,
+      "quantidadeEstoque": 55
+  },
+  {
+      "id": 85,
+      "nome": "Aspirador de Pó",
+      "descricao": "Aspirador de pó portátil e potente.",
+      "preco": 242.9,
+      "quantidadeEstoque": 27
+  },
+  {
+      "id": 86,
+      "nome": "Tênis Casual",
+      "descricao": "Tênis casual com solado confortável.",
+      "preco": 175.54,
+      "quantidadeEstoque": 62
+  },
+  {
+      "id": 87,
+      "nome": "Aspirador de Pó",
+      "descricao": "Aspirador de pó portátil e potente.",
+      "preco": 203.63,
+      "quantidadeEstoque": 36
+  },
+  {
+      "id": 88,
+      "nome": "Ferro de Passar Roupa",
+      "descricao": "Ferro a vapor com ajuste de temperatura.",
+      "preco": 75.68,
+      "quantidadeEstoque": 59
+  },
+  {
+      "id": 89,
+      "nome": "Tênis Casual",
+      "descricao": "Tênis casual com solado confortável.",
+      "preco": 120.93,
+      "quantidadeEstoque": 58
+  },
+  {
+      "id": 90,
+      "nome": "Roteador Wi-Fi",
+      "descricao": "Roteador com conexão de 2.4 e 5 GHz.",
+      "preco": 140.29,
+      "quantidadeEstoque": 110
+  },
+  {
+      "id": 91,
+      "nome": "Mochila Escolar",
+      "descricao": "Mochila com compartimento para notebook.",
+      "preco": 81.61,
+      "quantidadeEstoque": 157
+  },
+  {
+      "id": 92,
+      "nome": "Mochila Escolar",
+      "descricao": "Mochila com compartimento para notebook.",
+      "preco": 87.62,
+      "quantidadeEstoque": 191
+  },
+  {
+      "id": 93,
+      "nome": "Roteador Wi-Fi",
+      "descricao": "Roteador com conexão de 2.4 e 5 GHz.",
+      "preco": 136.94,
+      "quantidadeEstoque": 104
+  },
+  {
+      "id": 94,
+      "nome": "Mochila Escolar",
+      "descricao": "Mochila com compartimento para notebook.",
+      "preco": 91.51,
+      "quantidadeEstoque": 151
+  },
+  {
+      "id": 95,
+      "nome": "Mochila Escolar",
+      "descricao": "Mochila com compartimento para notebook.",
+      "preco": 100.04,
+      "quantidadeEstoque": 282
+  },
+  {
+      "id": 96,
+      "nome": "Aspirador de Pó",
+      "descricao": "Aspirador de pó portátil e potente.",
+      "preco": 229.49,
+      "quantidadeEstoque": 29
+  },
+  {
+      "id": 97,
+      "nome": "Aspirador de Pó",
+      "descricao": "Aspirador de pó portátil e potente.",
+      "preco": 215.65,
+      "quantidadeEstoque": 34
+  },
+  {
+      "id": 98,
+      "nome": "Ferro de Passar Roupa",
+      "descricao": "Ferro a vapor com ajuste de temperatura.",
+      "preco": 91.85,
+      "quantidadeEstoque": 55
+  },
+  {
+      "id": 99,
+      "nome": "Mochila Escolar",
+      "descricao": "Mochila com compartimento para notebook.",
+      "preco": 75.28,
+      "quantidadeEstoque": 120
+  },
+  {
+      "id": 100,
+      "nome": "Mochila Escolar",
+      "descricao": "Mochila com compartimento para notebook.",
+      "preco": 81.9,
+      "quantidadeEstoque": 105
+  }
+]
